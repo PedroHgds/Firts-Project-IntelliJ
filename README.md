@@ -1,6 +1,6 @@
-#Primeiros passos no IntelliJ
+# Primeiros passos no IntelliJ
 
-##Comandos básicos no IntelliJ
+## Comandos básicos no IntelliJ
 
 Geral
 
